@@ -1,4 +1,4 @@
-package com.poweramp.v3.vispresets.sample;
+package com.poweramp.v3.vispresets.curatedvizsets;
 
 import android.app.Activity;
 import android.content.Intent;
